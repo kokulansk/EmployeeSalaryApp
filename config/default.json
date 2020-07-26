@@ -1,0 +1,15 @@
+{
+  "server": {
+    "port": 3000,
+    "app": {
+      "name": "Employee Salary App"
+    }
+  },
+  "employee": {
+    "route": {
+      "base": "/api/v1/employee",
+      "salaryOfEmployee": "/:employeeId/salary",
+      "getEmployeeByName": "/firstName/:name"
+    }
+  }
+}
