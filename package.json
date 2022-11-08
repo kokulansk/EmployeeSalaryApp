@@ -34,7 +34,7 @@
     "yamljs": "^0.3.0"
   },
   "devDependencies": {
-    "gulp": "^3.9.0",
+    "gulp": "^4.0.2",
     "gulp-less": "^3.0.1",
     "gulp-nodemon": "^2.0.2",
     "gulp-livereload": "^3.8.0",
